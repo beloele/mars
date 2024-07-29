@@ -42,7 +42,7 @@ export default function Home() {
       }}>
       
         <Link href="#" passHref>
-          <a className="inline-block px-8 py-4 bg-[#ff6e01] text-white font-semibold rounded-md transition-transform duration-300 transform hover:scale-105 hover:bg-[#4891ff]">
+          <a className="inline-block px-8 py-4 bg-[#c32426] text-white font-semibold rounded-md transition-transform duration-300 transform hover:scale-105 hover:bg-[#ED1C24]">
             Marsbahis Giriş İçin Tıkla
           </a>
         </Link>
